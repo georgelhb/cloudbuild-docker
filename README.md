@@ -1,4 +1,5 @@
 #### The code shows how to use Cloud Build to build a Docker image and automatically push it to Container Registry.
+---
 1) Run the following command to make quickstart.sh executable: <br/>
 ```
 chmod +x quickstart.sh
